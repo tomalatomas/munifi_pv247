@@ -1,0 +1,37 @@
+{
+	"name": "pv247-assignment",
+	"version": "0.1.0",
+	"private": true,
+	"devDependencies": {
+		"@haaxor1689/eslint-config": "^2.0.4",
+		"@haaxor1689/prettier-config": "^2.0.2",
+		"@types/lodash": "^4.14.191",
+		"@typescript-eslint/eslint-plugin": "^5.52.0",
+		"@typescript-eslint/parser": "^5.52.0",
+		"eslint": "^8.34.0",
+		"eslint-config-prettier": "^8.6.0",
+		"eslint-import-resolver-typescript": "^3.5.3",
+		"eslint-plugin-import": "^2.27.5",
+		"eslint-plugin-jsx-a11y": "^6.7.1",
+		"eslint-plugin-prefer-arrow": "^1.2.3",
+		"eslint-plugin-prettier": "^4.2.1",
+		"eslint-plugin-react": "^7.32.2",
+		"prettier": "^2.8.4",
+		"typescript": "^4.9.5"
+	},
+	"scripts": {
+		"build": "npx ts-node ./src/index.ts",
+		"lint": "eslint \"./src/**/*.{ts,tsx}\" && prettier \"./src/**/*.{ts,tsx}\" --check"
+	},
+	"eslintConfig": {
+		"extends": "@haaxor1689/eslint-config"
+	},
+	"prettier": "@haaxor1689/prettier-config",
+	"engines": {
+		"node": ">=18.14.0",
+		"npm": ">=9.3.0"
+	},
+	"dependencies": {
+		"lodash": "^4.17.21"
+	}
+}
