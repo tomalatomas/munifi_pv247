@@ -6,39 +6,39 @@ This repository contains solutions to course PV247, which teaches TypeScript wit
 
 ### 1. Tooling
 
-[](https://github.com/tomalatomas/munifi_pv247/tree/t1-tooling)
+[Solution](https://github.com/tomalatomas/munifi_pv247/tree/t1-tooling)
 
 ### 2. Javascript
 
-[](https://github.com/tomalatomas/munifi_pv247/tree/t2-javascript)
+[Solution](https://github.com/tomalatomas/munifi_pv247/tree/t2-javascript)
 
 ### 3. Typescript
 
-[](https://github.com/tomalatomas/munifi_pv247/tree/t3-typescript)
+[Solution](https://github.com/tomalatomas/munifi_pv247/tree/t3-typescript)
 
 ### 4. Vite / CRA
 
-[](https://github.com/tomalatomas/munifi_pv247/tree/t4-cra)
+[Solution](https://github.com/tomalatomas/munifi_pv247/tree/t4-cra)
 
 ### 5. React
 
-[](https://github.com/tomalatomas/munifi_pv247/tree/t5-react)
+[Solution](https://github.com/tomalatomas/munifi_pv247/tree/t5-react)
 
 ### 6. React
 
-[](https://github.com/tomalatomas/munifi_pv247/tree/t6-react)
+[Solution](https://github.com/tomalatomas/munifi_pv247/tree/t6-react)
 
 ### 7. Hooks
 
-[](https://github.com/tomalatomas/munifi_pv247/tree/t7-hooks)
+[Solution](https://github.com/tomalatomas/munifi_pv247/tree/t7-hooks)
 
 ### 8. Async
 
-[](https://github.com/tomalatomas/munifi_pv247/tree/t8-async)
+[Solution](https://github.com/tomalatomas/munifi_pv247/tree/t8-async)
 
 ### 9. State Management
 
-[](https://github.com/tomalatomas/munifi_pv247/tree/t9-statemanagement)
+[Solution](https://github.com/tomalatomas/munifi_pv247/tree/t9-statemanagement)
 
 ### 10. Deployment
 
